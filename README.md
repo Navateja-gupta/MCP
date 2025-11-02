@@ -13,10 +13,10 @@ This project is an MCP (Model Context Protocol) server that provides a simple RE
 
 ## 📁 Project Structure
 mcp-server/
-├── index.js # Main MCP server file
-├── package.json # Node dependencies
-├── sample.txt # Example file for testing
-└── README.md # Project documentation
+├── index.js        # Main MCP server file
+├── package.json    # Node dependencies
+├── sample.txt      # Example file for testing
+└── README.md       # Project documentation
 
 1. Clone this repository:
    ```bash
