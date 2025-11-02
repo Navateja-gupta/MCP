@@ -28,7 +28,7 @@ mcp-server/
 1. Clone this repository:
    ```bash
   git clone https://github.com/Navateja-gupta/MCP.git
-   cd mcp-server
+  cd mcp-server
    ```
 
 2. Install dependencies:
