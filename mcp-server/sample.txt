@@ -1,0 +1,4 @@
+This is a normal line.
+An error occurred in the system.
+Another info message.
+Critical error found in logs.
